@@ -168,7 +168,7 @@ footer a img {
 /*ESTILOS DE LA PÁGINA DE INICIO*/
 /*Sección 1*/
 article#home > section:nth-child(1) {
-    background-image: linear-gradient(rgba(26, 26, 50, 0.9), rgba(26, 26, 50, 0.9)), url(/images/gavel-book.jpg);
+    background-image: linear-gradient(rgba(26, 26, 50, 0.9), rgba(26, 26, 50, 0.9)), url(images/gavel-book.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
